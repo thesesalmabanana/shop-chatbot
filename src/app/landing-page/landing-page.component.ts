@@ -11,8 +11,28 @@ export class LandingPageComponent {
 
   ids = [
     {
-      'name': 'Reme',
-      'id': 'e28c4464-d164-401b-bfab-a4fe94bd793f'
+      'name': 'Léo',
+      'id': '90edf658-27c1-414b-bc26-e9e1370149db'
+    },
+    {
+      'name': 'Thomas',
+      'id': 'eec6aa44-48d7-4194-904e-f4e6f8da3694'
+    },
+    {
+      'name': 'Rémi',
+      'id': '6b161587-b624-4cd2-816f-e35fe4da7188'
+    },
+    {
+      'name': 'Paul',
+      'id': 'c6a915b3-5e2c-4211-a9a0-c6c941c72360'
+    },
+    {
+      'name': 'Henri',
+      'id': '20c5ff19-5fa8-4f70-a4ee-5d113e1fe387'
+    },
+    {
+      'name': 'Franck',
+      'id': '38236a7b-142b-4bab-bea4-67341a36d4d0'
     }
   ];
 
