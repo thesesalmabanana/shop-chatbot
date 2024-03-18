@@ -38,7 +38,7 @@ export class LandingPageComponent {
 
   constructor(){
     this.selectedAgent = this.ids[Math.floor(Math.random() * this.ids.length)]
-    this.addElement(this.selectedAgent);
+    //this.addElement(this.selectedAgent);
   }
 
   addElement(agent:any) {
